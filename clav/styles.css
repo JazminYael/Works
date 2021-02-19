@@ -1,0 +1,57 @@
+*{
+    background-color: black;
+    font-family: 'Big Shoulders Inline Display', cursive;
+    color: rgb(190, 184, 176);
+font-size: x-large;
+box-sizing: border-box;
+}
+h2{
+    font-size: 70px;
+    font-family:'Bebas Neue', cursive; ;
+    margin-left: 27%;
+   
+    text-transform: uppercase;
+    border-bottom: 2px solid rgb(131, 45, 30);;
+    width: 36%;
+    padding: 3%;
+}
+
+/* ids */
+#container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.espacioLibre{
+    background-color: wheat;
+    margin: 80px 70px;
+}
+
+
+
+/* clases */
+.Superconteiner{
+    display: flex;
+}
+ 
+.resalteRojo:hover{
+        color: rgb(200, 82, 46);
+}
+.fotis{
+    width: 30%;  
+     margin:0.4%;
+}
+
+/* img */
+
+
+.principal{
+width: 50%;
+margin: 12px 40px;
+}
+
+.fin{
+
+    text-align: center;
+
+}
